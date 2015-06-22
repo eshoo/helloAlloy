@@ -1,5 +1,9 @@
 function doClick(e) {
-    alert($.label.text);
+    alert($.mylabel.text);
 }
 
 $.index.open();
+
+var mylab=$.mylabel;
+mylab.setBackgroundColor("red");
+mylab.setColor("yellow");

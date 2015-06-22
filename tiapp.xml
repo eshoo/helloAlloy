@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ti:app xmlns:ti="http://ti.appcelerator.org">
-    <id>com.maddatascientist.HelloAlloy</id>
+    <id>me.maddatascientist.HelloAlloy</id>
     <name>helloAlloy</name>
     <version>1.0</version>
     <publisher>josh</publisher>

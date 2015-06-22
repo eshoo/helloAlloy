@@ -1,2 +1,1 @@
-# helloAlloy
-.gitignore
+Appcelerator Titanium Alloy poc
